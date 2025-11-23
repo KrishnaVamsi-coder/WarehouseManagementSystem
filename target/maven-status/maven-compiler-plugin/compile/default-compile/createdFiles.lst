@@ -1,0 +1,17 @@
+com\example\warehouse_management\service\BillService.class
+com\example\warehouse_management\model\Item.class
+com\example\warehouse_management\model\Bill_Shipment.class
+com\example\warehouse_management\controller\BillController.class
+com\example\warehouse_management\model\Bill.class
+com\example\warehouse_management\controller\Bill_ShipmentController.class
+com\example\warehouse_management\model\Shipment.class
+com\example\warehouse_management\WarehouseManagementApplication.class
+com\example\warehouse_management\controller\ItemController.class
+com\example\warehouse_management\service\Bill_ShipmentService.class
+com\example\warehouse_management\repository\Bill_ShipmentRepository.class
+com\example\warehouse_management\repository\BillRepository.class
+com\example\warehouse_management\repository\ItemRepository.class
+com\example\warehouse_management\controller\ShipmentController.class
+com\example\warehouse_management\service\ShipmentService.class
+com\example\warehouse_management\repository\ShipmentRepository.class
+com\example\warehouse_management\service\ItemService.class
