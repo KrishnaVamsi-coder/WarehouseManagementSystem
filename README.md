@@ -38,6 +38,3 @@ Sprint planning, workflow transitions, backlog prioritization, and velocity trac
 
 Sprint execution reports, velocity charts, and board visualizations available via Jira dashboard.
 
-## License
-
-MIT
